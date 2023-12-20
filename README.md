@@ -3,15 +3,16 @@
 
 
 ## Introduction
-
-The `Tabscreen` serves as the central hub for users to explore and manage their meal preferences. It includes tabs for Categories, Favorites, and a responsive Bottom Navigation Bar for easy navigation.
+Flutter Feast is a Flutter-based mobile app designed to help you explore and plan your meals effortlessly. Whether you're a cooking enthusiast or someone looking for quick and delicious recipes, Flutter Feast has got you covered.
 
 ## Features
 
 - **Category Exploration:** Navigate through various meal categories in the "Categories" tab.
 - **Favorites Management:** Access and manage your favorite meals in the "Favorites" tab.
 - **Dynamic Filtering:** Apply filters to customize your meal options based on dietary preferences.
-
+- **Flexible Filters:** Choose from a variety of filters, including Vegan, Gluten-Free, Lactose-Free, and Vegetarian.
+- **Real-Time Updates:** Experience instant updates as you toggle filters, ensuring a seamless customization process.
+- **Easy Navigation:** User-friendly switches make it simple to set and update your preferences.
 
 ## Usage
 
